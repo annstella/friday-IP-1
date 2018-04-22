@@ -11,3 +11,6 @@ li{
   font-style: italic;
   color: green;
 }
+img{
+  float: right;
+}
