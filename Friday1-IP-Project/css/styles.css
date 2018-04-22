@@ -14,3 +14,9 @@ li{
 img{
   float: right;
 }
+.test-box{
+  border-left: 2px solid red;
+  border-right: 4px solid yellow;
+  border-top: 6px solid green;
+  border-bottom: 8px solid black;
+}
