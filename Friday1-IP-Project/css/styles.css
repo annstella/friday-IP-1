@@ -7,3 +7,7 @@ h3{
 p{
   color: purple;
 }
+li{
+  font-style: italic;
+  color: green;
+}
